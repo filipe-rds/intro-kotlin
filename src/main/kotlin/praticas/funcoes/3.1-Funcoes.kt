@@ -1,4 +1,4 @@
-/*
+package br.ifpb.pdm.praticas.funcoes/*
 //////////////////////////
 Leia o escopo do main para entender o que deverá ser feito na atividade;
 //////////////////////////
